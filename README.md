@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💼 I’m currently developing at 0Miedo & LSD
+👨‍💼 I’m currently developing at 0Miedo
 
 <!--
 **IVJAlberto/IVJAlberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
