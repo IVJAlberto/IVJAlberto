@@ -1,3 +1,4 @@
+![crab_programming2 jpg](https://github.com/IVJAlberto/IVJAlberto/assets/30054993/649a6e95-82fa-4cca-8de8-06c5278303c2)
 ### Hi there 👋
  </p>
 👨‍💼 I’m currently developing at 0Miedo
