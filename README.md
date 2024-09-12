@@ -7,7 +7,7 @@ I'm a Videogame Engineer
 ------------------------
 
 * 🌍  I'm based in Morelia
-* 🚀  I'm currently working on [Box Collider]((https://boxcollider.com.mx))
+* 🚀  I'm currently working on [Box Collider](https://boxcollider.com.mx)
 * 🧠  I'm learning ReactJS
 
 ### <h3 align="left">Languages and Tools:</h3>
